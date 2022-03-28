@@ -1,0 +1,30 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "ea0526e1-a7a6-4ad4-b7aa-3ad4e7af2205",
+        "ProjectName": "ODESSAPDC01",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "C:\\Users\\Oleksandr Kosenko\\Documents\\projectName"
+      },
+      "UserData": [
+        {
+          "UserName": "Condensator",
+          "DatabasesData": []
+        }
+      ]
+    }
+  ],
+  "GlobalConfigurations": null
+}
